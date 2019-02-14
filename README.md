@@ -78,14 +78,14 @@ Permissions
  (Owner and Group will show your name, not mine)
 
 
-<img src="images/dot-macrambo-perms.png" width="451">
+<img src="images/dot-macrambo.png" width="451">
 
 - Right click on the file macrambo.sh and just as you did above, and match permissions to those in the image below:
 
  (Owner and Group will show your name, not mine)
 
 
-<img src="images/macrambo.sh-perms.png" width="451">
+<img src="images/macrambo-enable.png" width="451">
 
 
 ---
