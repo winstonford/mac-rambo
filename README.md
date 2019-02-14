@@ -7,9 +7,18 @@
 ##### ~ _for macs running elementary Juno_
 ---
 
-This utility maps the ⌘ Apple command key to the ⌃ control key and vice versa.  
+> "To all Earthlings running elementary Juno on a mac, I got your back."
+ _- Mac Rambo_
 
-It basically turns the command key into a commando. A rebel commando: Mac Rambo. Spoken with a thick Scottish accent where the "a" is silent and the "o" is short.
+ Mac Rambo enables you to use the ⌘ key normally in elmentary Juno, on a mac, on the regular, like a boss. 
+
+ This utility maps the ⌘ Apple command key to the ⌃ control key and vice versa, via xmodmap.
+
+It basically turns the command key into a commando. A rebel commando: Mac Rambo. Spoken with a thick Scottish accent where the "a" is silent and the "o" is just a puff of air.
+
+To instantly override Mac Rambo and revert to your old control key issues, simply open System Settings > Keyboard. You're on your own now.
+
+
 
 #### 1. Install
 In this folder, right click on the background and select Open in Terminal. Do:
@@ -18,14 +27,14 @@ In this folder, right click on the background and select Open in Terminal. Do:
 
 
 #### 2. Enable
-In your home folder, right click on the file macrambo-enable.sh and in the contextual menu, select the top option: Run.
+Restart- or in your home folder, right click on the file macrambo-enable.sh and in the contextual menu, select the top option: Run.
 
 #### 3. Use the ⌘ key
 You should now be able to copy, paste, undo, scroll zoom, open, save, yea basically everything, using the Apple ⌘ command key. Welcome home.
 
 #### Startup
 
-1.macrambo is installed as a Startup item at System Settings > Applications > Startup  
+1.Mac Rambo is installed as a Startup item at System Settings > Applications > Startup  
 
 <img src="images/macrambo-startup.png" width="1365">
 
@@ -33,7 +42,7 @@ You should now be able to copy, paste, undo, scroll zoom, open, save, yea basica
 
 #### 1. Disable
 
-Simply open System Settings > Keyboard and enjoy the control key.
+Simply open System Settings > Keyboard to override Mac Rambo and enjoy the control key in all of its sinister, herniated fingerdom and rude reach-over, asymmetrical imbalance.
 
 #### 2. Uninstall
 
@@ -41,13 +50,10 @@ Simply open System Settings > Keyboard and enjoy the control key.
 
 #### 3. Trash
 
-Trash the folder in Utilities > macrambo.  
+Trash the folder in Utilities > Mac Rambo.  
 
 #### Problems?
  - See Troubleshooting below
-
-
-
 
 
 ---
@@ -91,7 +97,7 @@ Permissions
 
 ---
 
-#### Mac Rambo works with:
+#### Mac Rambo works on these macs:
 
 
 
@@ -115,8 +121,8 @@ Find your model:
 
 - [Find your model by serial](https://checkcoverage.apple.com/)
 
-And post an issue if macrambo works on your mac or not.
+And post an issue if Mac Rambo works on your mac or not.
 
 ---
 
-Credit: [Alex Palcuie](https://askubuntu.com/questions/131900/how-do-i-switch-the-command-key-and-control-key-on-a-macbo)
+Mad Credit: [Alex Palcuie](https://askubuntu.com/questions/131900/how-do-i-switch-the-command-key-and-control-key-on-a-macbo)
