@@ -5,12 +5,13 @@
 ### Apple ⌘ command key enabler
 
 ##### ~ _for macs running elementary Juno_
----
 
 > "To all Earthlings running elementary Juno on a mac, I got your back."
  _- Mac Rambo_
 
- Mac Rambo enables you to use the ⌘ key normally in elmentary Juno, on a mac, on the regular, like a boss. 
+ Mac Rambo enables you to use the ⌘ key normally in elmentary Juno, on a mac, on the regular, like a boss.
+
+ ---
 
  This utility maps the ⌘ Apple command key to the ⌃ control key and vice versa, via xmodmap.
 
