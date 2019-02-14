@@ -90,7 +90,7 @@ Permissions
 
 ---
 
-#### macrambo works with:
+#### Mac Rambo works with:
 
 
 
