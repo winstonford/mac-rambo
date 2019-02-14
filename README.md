@@ -2,9 +2,10 @@
 
 <img src="macrambo.png" width="64">
 
-## Apple ⌘ command key enabler
+### Apple ⌘ command key enabler
 
-~_for macs running elementary Juno_
+##### ~ _for macs running elementary Juno_
+---
 
 This utility maps the ⌘ Apple command key to the ⌃ control key and vice versa.  
 
