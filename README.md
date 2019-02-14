@@ -9,7 +9,7 @@
 
 This utility maps the ⌘ Apple command key to the ⌃ control key and vice versa.  
 
-It basically turns the command key into  a commando. A rebel commando: Mac Rambo. Spoken with a thick Scottish accent where the "a" is silent and the "o" is short.
+It basically turns the command key into a commando. A rebel commando: Mac Rambo. Spoken with a thick Scottish accent where the "a" is silent and the "o" is short.
 
 #### 1. Install
 In this folder, right click on the background and select Open in Terminal. Do:
