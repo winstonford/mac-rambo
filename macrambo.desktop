@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name[en_US]=Mac Rambo
-Comment[en_US]=Apple ⌘ commando key enabler
+Comment[en_US]=Apple ⌘ command key enabler
 Exec=./macrambo-enable.sh
 Icon=macrambo
 X-GNOME-Autostart-enabled=true
