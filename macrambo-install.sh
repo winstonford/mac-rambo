@@ -21,7 +21,6 @@ echo "errors from ~/Utilities/Mac Rambo/macrambo-install.sh" 1>&2
 mkdir -p ~/Utilities/Mac\ Rambo
 cp -R $PWD/* ~/Utilities/Mac\ Rambo/
 # Print a message to the original standard output (e.g. terminal)
-echo $PWD "line 24"
 echo "Done. If ~/Utilities/Mac Rambo exists, you may delete this folder." 1>&3
 
 
