@@ -43,7 +43,7 @@ You should now be able to copy, paste, undo, scroll zoom, open, save, yea basica
 
 #### 1. Disable
 
-Simply open System Settings > Keyboard to override Mac Rambo and enjoy the control key in all of its sinister, herniated fingerdom and rude reach-over, asymmetrical imbalance.
+Simply open System Settings > Keyboard to override Mac Rambo and enjoy the control key in all of its sinister, herniated fingerdom and rude reach-over, asymmetrical imbalance- especially for lefties.
 
 #### 2. Uninstall
 
@@ -51,11 +51,10 @@ Simply open System Settings > Keyboard to override Mac Rambo and enjoy the contr
 
 #### 3. Trash
 
-Trash the folder in Utilities > Mac Rambo.  
+Go to ~/Utilities and Trash Mac Rambo.  
 
 #### Problems?
  - See Troubleshooting below
-
 
 ---
 
@@ -65,30 +64,28 @@ Trash the folder in Utilities > Mac Rambo.
 1. Copy macrambo-enable.sh to your home folder
 1. Copy macrambo.desktop to ~/.config/autostart/
 1. Copy macrambo.png to ~/.local/share/icons/hicolor/128x128/apps/
-1. Copy this folder to Utilities
+1. Copy this folder to Utilities. No Utilities folder? Make it ur own dang self.
 
 Problems? If you can't see the .config or .local folders: in your home folder, right click and check Show Hidden Files.  
 
-__Note__: When creating shorts cuts in System Settings > Keyboard, use the control key to set a shortcut for the command key, then remember to rerun the script after you close out.  For instance, set the Systems > Applications Menu to activate with control spacebar.  Close out of System Settings, run the script again, and command spacebar will open the Applications Menu.
+__Note__: When creating shorts cuts in System Settings > Keyboard, use the control key to set a shortcut for the command key, then remember to rerun the script after you close out.  For instance, set the Systems > Applications Menu to activate with control spacebar.  Close out of System Settings, restart or run the script again, and command spacebar will open the Applications Menu.
 
 ---
 
 #### Troubleshooting
 
-
-
 __Remember__, if you open System Settings > Keyboard, _you will need to rerun the script by doing the above step 2 again_ AFTER you close System Settings.
 
 Permissions
 
-- Right click on the file .macrambo, in the contextual menu select Properties, then in the dialogue box select Permissions, and set permissions to match those below by clicking in the grid or typing numbers in the bottom right box
+- In your home folder, right click on the file .macrambo, in the contextual menu select Properties, then in the dialogue box select Permissions, and set permissions to match those below by clicking in the grid or typing numbers in the bottom right box
 
  (Owner and Group will show your name, not mine)
 
 
 <img src="images/dot-macrambo.png" width="451">
 
-- Right click on the file macrambo.sh and just as you did above, and match permissions to those in the image below:
+- In your home folder, right click on the file macrambo.sh and just as you did above, and match permissions to those in the image below:
 
  (Owner and Group will show your name, not mine)
 
