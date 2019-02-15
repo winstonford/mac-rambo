@@ -22,7 +22,7 @@ To instantly override Mac Rambo and revert to your old cntrl key issues, simply 
 
 
 #### 1. Install
-In this folder, right click on the background and select Open in Terminal. Do:
+In this folder, right click (or two finger tap) on the background and select Open in Terminal. Do:
 
     ./macrambo-install.sh
 
