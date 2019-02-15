@@ -35,7 +35,7 @@ You should now be able to copy, paste, undo, scroll zoom, open, save, yea basica
 
 #### Startup
 
-1.Mac Rambo is installed as a Startup item at System Settings > Applications > Startup  
+Mac Rambo is installed as a Startup item at System Settings > Applications > Startup  
 
 <img src="images/macrambo-startup.png" width="1365">
 
@@ -43,7 +43,7 @@ You should now be able to copy, paste, undo, scroll zoom, open, save, yea basica
 
 #### 1. Disable
 
-Simply open System Settings > Keyboard to override Mac Rambo and enjoy the control key in all of its sinister, herniated fingerdom and rude reach-over, asymmetrical imbalance- especially for lefties.
+To instantly override Mac Rambo, simply open System Settings > Keyboard and enjoy the control key in all of its evil, sinister, herniated fingerdom and rude reach-over, asymmetrical imbalance- especially for lefties.
 
 #### 2. Uninstall
 
@@ -51,7 +51,7 @@ Simply open System Settings > Keyboard to override Mac Rambo and enjoy the contr
 
 #### 3. Trash
 
-Go to ~/Utilities and Trash Mac Rambo.  
+Go to ~/Utilities and trash Mac Rambo.  
 
 #### Problems?
  - See Troubleshooting below
@@ -124,9 +124,11 @@ And post an issue if Mac Rambo works on your mac or not.
 ---
 
 #### Design
-Icon details
+Icon detail
 
 <img src="macrambo.png" width="64">
+
+128x128@2x
 
 Source files: Akira [(coming soon)](https://github.com/akiraux/Akira), [Figma](https://www.figma.com/file/HbtTDPA0qNkW05oZ6Vgcfe7R/Mac-Rambo?node-id=12%3A12)*
 
