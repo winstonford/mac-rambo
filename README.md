@@ -17,7 +17,7 @@
 
 It basically turns the command key into a commando. A rebel commando: Mac Rambo. Spoken with a thick Scottish accent where the "a" in mac is silent and the "o" is just a puff of air.
 
-To instantly override Mac Rambo and revert to your old control key issues, simply open System Settings > Keyboard. You're on your own now.
+To instantly override Mac Rambo and revert to your old control key issues, simply open System Settings > Keyboard. You're back in cntrl.
 
 
 
