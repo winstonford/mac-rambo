@@ -6,7 +6,7 @@
 
 ##### ~ _for macs running elementary Juno_
 
-> "To all Earthlings running elementary Juno on a mac, I got your back."
+> "To all earthlings running elementary Juno on a mac, I got your back."
  _- Mac Rambo_
 
  Mac Rambo enables you to use the ⌘ key normally in elmentary Juno, on a mac, on the regular, like a boss.
