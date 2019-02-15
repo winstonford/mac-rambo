@@ -123,4 +123,17 @@ And post an issue if Mac Rambo works on your mac or not.
 
 ---
 
+<img src="macrambo.png" width="64">
+
+Icon source: [Figma*](https://www.figma.com/file/HbtTDPA0qNkW05oZ6Vgcfe7R/Mac-Rambo?node-id=12%3A12), Akira [(coming soon)](https://github.com/akiraux/Akira)
+
+
+| Font Face | Font Color | Beret Color | Key color
+|---        | ---        | ---         | ---
+| Roboto    | #666    | #a10705     | #f6f4ef
+
+* Where you can finally ⌘ scroll to zoom on a mac in elementary Juno... pretty much the whole impetus behind Mac Rambo.
+
+---
+
 Mad Credit: [Alex Palcuie](https://askubuntu.com/questions/131900/how-do-i-switch-the-command-key-and-control-key-on-a-macbo)
