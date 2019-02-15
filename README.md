@@ -123,9 +123,12 @@ And post an issue if Mac Rambo works on your mac or not.
 
 ---
 
+#### Design
+Icon details
+
 <img src="macrambo.png" width="64">
 
-Icon source: [Figma*](https://www.figma.com/file/HbtTDPA0qNkW05oZ6Vgcfe7R/Mac-Rambo?node-id=12%3A12), Akira [(coming soon)](https://github.com/akiraux/Akira)
+Source files: Akira [(coming soon)](https://github.com/akiraux/Akira), [Figma](https://www.figma.com/file/HbtTDPA0qNkW05oZ6Vgcfe7R/Mac-Rambo?node-id=12%3A12)*
 
 
 | Font Face | Font Color | Beret Color | Key color
