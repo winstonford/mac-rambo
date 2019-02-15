@@ -43,7 +43,7 @@ Mac Rambo is installed as a Startup item at System Settings > Applications > Sta
 
 #### 1. Disable
 
-To instantly override Mac Rambo, simply open System Settings > Keyboard and enjoy the control key in all of its evil, sinister, herniated fingerdom and rude reach-over, asymmetrical imbalance- especially for lefties.
+To instantly override Mac Rambo, simply open System Settings > Keyboard and enjoy the control key in all of its evil, sinister, herniated spread-fingerdom and rude reach-over, asymmetrical imbalance- especially for lefties.
 
 #### 2. Uninstall
 
