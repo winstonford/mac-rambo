@@ -1,6 +1,6 @@
 <img src="macrambo.png" width="64">
 
-# Mac Rambo
+# Mac Rambo test
 
 ### Apple ⌘ command key enabler
 
