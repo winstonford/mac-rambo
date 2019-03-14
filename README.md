@@ -19,7 +19,9 @@ It basically turns the command key into a commando. A rebel commando: Mac Rambo.
 
 To instantly override Mac Rambo and revert to your old cntrl key issues, simply open System Settings > Keyboard. You're back in cntrollia.
 
-
+#### 0. Optional 
+If you haven't altready, consider downloading the latest [appimagelauncher](https://github.com/TheAssassin/AppImageLauncher/releases) .deb and installing it with [Eddy](https://appcenter.elementary.io/com.github.donadigo.eddy/) . When you use appimagelauncher to install the first appimage, it will
+create the folders for icons, and the macrambo install puts the icon in these folders.  If you skip this step, everything will work, but in the startup items you will not see the sick macrambo icon.  You can copy it manually as described in the long way below.
 
 #### 1. Install
 In this folder, right click (or two finger tap) on the background and select Open in Terminal. Do:
