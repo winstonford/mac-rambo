@@ -20,7 +20,7 @@ echo "errors from ~/Utilities/Mac Rambo/macrambo-uninstall.sh" 1>&2
 
 # Print a message to the original standard output (e.g. terminal)
 
-echo "Done. You may delete ~/Utilities/Mac Rambo" 1>&3
+echo "Done. You may delete ~/Utilities/mac-rambo" 1>&3
 
 
 # Restore original stdout/stderr
