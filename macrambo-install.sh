@@ -15,13 +15,13 @@ cp macrambo.desktop ~/.config/autostart
 cp macrambo.png ~/.local/share/icons/hicolor/128x128/apps/
 
 
-echo "normal output from ~/Utilities/Mac Rambo/macrambo-install.sh"
-echo "errors from ~/Utilities/Mac Rambo/macrambo-install.sh" 1>&2
+echo "normal output from ~/Utilities/mac-rambo/macrambo-install.sh"
+echo "errors from ~/Utilities/mac-rambo/macrambo-install.sh" 1>&2
 
-mkdir -p ~/Utilities/Mac\ Rambo
-cp -R $PWD/* ~/Utilities/Mac\ Rambo/
+mkdir -p ~/Utilities/mac-rambo
+cp -R $PWD/* ~/Utilities/mac-rambo/
 # Print a message to the original standard output (e.g. terminal)
-echo "Done. If ~/Utilities/Mac Rambo exists, you may delete this folder." 1>&3
+echo "Done. If ~/Utilities/mac-rambo exists, you may delete this folder." 1>&3
 
 
 # Restore original stdout/stderr
